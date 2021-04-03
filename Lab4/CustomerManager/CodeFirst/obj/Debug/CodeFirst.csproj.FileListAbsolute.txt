@@ -1,0 +1,12 @@
+D:\wpf\projects\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
+D:\wpf\projects\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+D:\wpf\projects\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\wpf\projects\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+D:\wpf\projects\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\wpf\projects\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+D:\wpf\projects\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\wpf\projects\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\wpf\projects\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\wpf\projects\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+D:\wpf\projects\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\wpf\projects\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache

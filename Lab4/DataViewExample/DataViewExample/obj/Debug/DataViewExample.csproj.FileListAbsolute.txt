@@ -1,0 +1,9 @@
+D:\wpf\projects\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+D:\wpf\projects\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+D:\wpf\projects\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+D:\wpf\projects\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+D:\wpf\projects\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+D:\wpf\projects\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+D:\wpf\projects\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+D:\wpf\projects\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+D:\wpf\projects\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb

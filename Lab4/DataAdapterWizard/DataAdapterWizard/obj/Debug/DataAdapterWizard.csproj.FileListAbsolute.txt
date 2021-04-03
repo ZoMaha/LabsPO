@@ -1,0 +1,9 @@
+D:\wpf\projects\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+D:\wpf\projects\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+D:\wpf\projects\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+D:\wpf\projects\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+D:\wpf\projects\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+D:\wpf\projects\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+D:\wpf\projects\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+D:\wpf\projects\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+D:\wpf\projects\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb

@@ -1,0 +1,10 @@
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csprojAssemblyReference.cache
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb
+D:\wpf\projects\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources

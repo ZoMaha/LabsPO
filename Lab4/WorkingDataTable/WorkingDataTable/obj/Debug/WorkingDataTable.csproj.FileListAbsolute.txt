@@ -1,0 +1,10 @@
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csprojAssemblyReference.cache
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+D:\wpf\projects\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.pdb

@@ -1,0 +1,10 @@
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csprojAssemblyReference.cache
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
+D:\wpf\projects\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
