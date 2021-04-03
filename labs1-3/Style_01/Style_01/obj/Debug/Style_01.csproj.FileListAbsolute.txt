@@ -1,0 +1,17 @@
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Style_01.csprojAssemblyReference.cache
+D:\wpf\projects\Style_01\Style_01\obj\Debug\MainWindow.g.cs
+D:\wpf\projects\Style_01\Style_01\obj\Debug\App.g.cs
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Style_01_MarkupCompile.cache
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Style_01_MarkupCompile.lref
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\3.5\Src\BrushCanvas.baml
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\3.5\Src\Demo\App.baml
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\3.5\Src\Themes\Generic.baml
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\3.5\Src\WhistlerBlue_brushes.baml
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\4.0\Demo\App.baml
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\4.0\Src\Themes\Generic.baml
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\4.0\Src\WhistlerBlue_brushes.baml
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\3.5\Src\BrushCanvas.g.cs
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\3.5\Src\Demo\App.g.cs
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Themes\4.0\Demo\App.g.cs
+D:\wpf\projects\Style_01\Style_01\obj\Debug\Style_01_Content.g.cs
+D:\wpf\projects\Style_01\Style_01\obj\Debug\GeneratedInternalTypeHelper.g.cs

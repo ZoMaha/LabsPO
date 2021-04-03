@@ -1,0 +1,19 @@
+D:\wpf\projects\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.exe
+D:\wpf\projects\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.deps.json
+D:\wpf\projects\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.runtimeconfig.json
+D:\wpf\projects\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.runtimeconfig.dev.json
+D:\wpf\projects\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.dll
+D:\wpf\projects\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.pdb
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.csprojAssemblyReference.cache
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\App.g.cs
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad_MarkupCompile.cache
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad_MarkupCompile.lref
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.g.resources
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.AssemblyInfoInputs.cache
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.AssemblyInfo.cs
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.csproj.CoreCompileInputs.cache
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.dll
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.pdb
+D:\wpf\projects\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.genruntimeconfig.cache

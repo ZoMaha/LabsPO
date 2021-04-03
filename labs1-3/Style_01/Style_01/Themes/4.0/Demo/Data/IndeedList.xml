@@ -1,0 +1,202 @@
+<ArrayOfIndeed xmlns="http://schemas.datacontract.org/2004/07/Demo.Data" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Indeed>
+    <Company>HireStrategy</Company>
+    <Date>Thu, 01 Jul 2010 18:36:32 GMT</Date>
+    <JobKey>d77d20c83be1bce7</JobKey>
+    <JobTitle>Silverlight Developer</JobTitle>
+    <Location>Reston, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>CareerBuilder</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>CyberCoders Engineering</Company>
+    <Date>Fri, 09 Jul 2010 12:06:09 GMT</Date>
+    <JobKey>fc6f3b410a933370</JobKey>
+    <JobTitle>Silverlight Developer - C# Developer, Visual Studio, .Net</JobTitle>
+    <Location>Reston, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>CareerBuilder</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Synerfac</Company>
+    <Date>Sat, 26 Jun 2010 18:21:42 GMT</Date>
+    <JobKey>9917be73a911df27</JobKey>
+    <JobTitle>Silverlight/.Net Developer</JobTitle>
+    <Location>Reston, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Synerfac</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Elite Technical Services</Company>
+    <Date>Sat, 19 Jun 2010 14:12:33 GMT</Date>
+    <JobKey>eadfec68cae92fb8</JobKey>
+    <JobTitle>Senior .Net Developer - Silverlight - WWF/WPF with Security Clearance</JobTitle>
+    <Location>Alexandria, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>ClearanceJobs.com</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Dandy Project LLC</Company>
+    <Date>Mon, 21 Jun 2010 17:08:42 GMT</Date>
+    <JobKey>0663b084fc7697d8</JobKey>
+    <JobTitle>C#/.net WPF Developer</JobTitle>
+    <Location>Germantown, MD</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>HireAbility.com</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Ling Technologies</Company>
+    <Date>Sat, 10 Jul 2010 05:16:22 GMT</Date>
+    <JobKey>5133328db18b8609</JobKey>
+    <JobTitle>.Net Develope</JobTitle>
+    <Location>Herndon, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Dice</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Potomac Fusion</Company>
+    <Date>Sat, 10 Jul 2010 03:58:24 GMT</Date>
+    <JobKey>922867f9431f7583</JobKey>
+    <JobTitle>Advanced IT Researcher</JobTitle>
+    <Location>Chantilly, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Dice</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Datatel, Inc.</Company>
+    <Date>Sun, 11 Jul 2010 05:04:00 GMT</Date>
+    <JobKey>67dfead5beb61f2b</JobKey>
+    <JobTitle>Senior Software Architect</JobTitle>
+    <Location>Fairfax, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Datatel, Inc.</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>CoStar Group</Company>
+    <Date>Mon, 12 Jul 2010 09:42:00 GMT</Date>
+    <JobKey>05bb72d4d2a5aa53</JobKey>
+    <JobTitle>.Net Senior Developer</JobTitle>
+    <Location>Bethesda, MD</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>CoStar Group</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Booz Allen</Company>
+    <Date>Sun, 11 Jul 2010 05:02:00 GMT</Date>
+    <JobKey>3f9a1582c143cb1d</JobKey>
+    <JobTitle>Modeling, Simulation, and GIS Developer Job</JobTitle>
+    <Location>McLean, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Booz Allen Hamilton</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>HireStrategy</Company>
+    <Date>Thu, 01 Jul 2010 18:36:32 GMT</Date>
+    <JobKey>d77d20c83be1bce7</JobKey>
+    <JobTitle>Silverlight Developer</JobTitle>
+    <Location>Reston, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>CareerBuilder</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>CyberCoders Engineering</Company>
+    <Date>Fri, 09 Jul 2010 12:06:09 GMT</Date>
+    <JobKey>fc6f3b410a933370</JobKey>
+    <JobTitle>Silverlight Developer - C# Developer, Visual Studio, .Net</JobTitle>
+    <Location>Reston, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>CareerBuilder</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Synerfac</Company>
+    <Date>Sat, 26 Jun 2010 18:21:42 GMT</Date>
+    <JobKey>9917be73a911df27</JobKey>
+    <JobTitle>Silverlight/.Net Developer</JobTitle>
+    <Location>Reston, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Synerfac</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Elite Technical Services</Company>
+    <Date>Sat, 19 Jun 2010 14:12:33 GMT</Date>
+    <JobKey>eadfec68cae92fb8</JobKey>
+    <JobTitle>Senior .Net Developer - Silverlight - WWF/WPF with Security Clearance</JobTitle>
+    <Location>Alexandria, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>ClearanceJobs.com</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Dandy Project LLC</Company>
+    <Date>Mon, 21 Jun 2010 17:08:42 GMT</Date>
+    <JobKey>0663b084fc7697d8</JobKey>
+    <JobTitle>C#/.net WPF Developer</JobTitle>
+    <Location>Germantown, MD</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>HireAbility.com</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Ling Technologies</Company>
+    <Date>Sat, 10 Jul 2010 05:16:22 GMT</Date>
+    <JobKey>5133328db18b8609</JobKey>
+    <JobTitle>.Net Develope</JobTitle>
+    <Location>Herndon, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Dice</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Potomac Fusion</Company>
+    <Date>Sat, 10 Jul 2010 03:58:24 GMT</Date>
+    <JobKey>922867f9431f7583</JobKey>
+    <JobTitle>Advanced IT Researcher</JobTitle>
+    <Location>Chantilly, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Dice</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Datatel, Inc.</Company>
+    <Date>Sun, 11 Jul 2010 05:04:00 GMT</Date>
+    <JobKey>67dfead5beb61f2b</JobKey>
+    <JobTitle>Senior Software Architect</JobTitle>
+    <Location>Fairfax, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Datatel, Inc.</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>CoStar Group</Company>
+    <Date>Mon, 12 Jul 2010 09:42:00 GMT</Date>
+    <JobKey>05bb72d4d2a5aa53</JobKey>
+    <JobTitle>.Net Senior Developer</JobTitle>
+    <Location>Bethesda, MD</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>CoStar Group</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+  <Indeed>
+    <Company>Booz Allen</Company>
+    <Date>Sun, 11 Jul 2010 05:02:00 GMT</Date>
+    <JobKey>3f9a1582c143cb1d</JobKey>
+    <JobTitle>Modeling, Simulation, and GIS Developer Job</JobTitle>
+    <Location>McLean, VA</Location>
+    <OnMouseDown>indeed_clk(this,'1004');</OnMouseDown>
+    <Source>Booz Allen Hamilton</Source>
+    <Url i:nil="true"/>
+  </Indeed>
+</ArrayOfIndeed>

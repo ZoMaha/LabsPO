@@ -1,0 +1,5 @@
+D:\wpf\projects\Style_01\Style_01\obj\Release\Style_01.csprojAssemblyReference.cache
+D:\wpf\projects\Style_01\Style_01\obj\Release\MainWindow.g.cs
+D:\wpf\projects\Style_01\Style_01\obj\Release\App.g.cs
+D:\wpf\projects\Style_01\Style_01\obj\Release\Style_01_MarkupCompile.cache
+D:\wpf\projects\Style_01\Style_01\obj\Release\Style_01_MarkupCompile.lref

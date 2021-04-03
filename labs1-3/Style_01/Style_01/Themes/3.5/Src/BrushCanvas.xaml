@@ -1,0 +1,62 @@
+﻿<Window x:Class="DataGridThemes.BrushCanvas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BrushCanvas" Height="300" Width="300">
+    <Window.Resources>
+        <ResourceDictionary Source="ExpressionDark_brushes.xaml" />
+    </Window.Resources>
+
+    <WrapPanel>
+
+        <Rectangle Fill="#FFC9CACA" Height="30" Width="120" />
+        <Rectangle x:Name="BackgroundRectangle" Height="30" Width="120" 
+                   Fill="{StaticResource NormalBrush}" Opacity="0.25" />
+        <Rectangle  x:Name="HoverRectangle" 
+                    Fill="{StaticResource HoverBrush}" Height="30" Width="120"  />
+        <Rectangle x:Name="ShineRectangle" 
+                   Fill="{StaticResource ShineBrush}" Stretch="Fill" 
+                   Height="30" Width="120" />
+        <Rectangle x:Name="SelectedRectangle" Opacity="1" 
+                   Fill="{StaticResource SelectedBackgroundBrush}"
+                   Height="30" Width="120" />
+        <Rectangle Height="30" Width="120" Opacity="1">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,0.971" StartPoint="0.5,0.042">
+                    <GradientStop Color="#59FFFFFF" Offset="0" />
+                    <GradientStop Color="#00FFFFFF" Offset="1" />
+                    <GradientStop Color="#26FFFFFF" Offset="0.467" />
+                    <GradientStop Color="#00FFFFFF" Offset="0.475" />
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="expressionLightShineBrush" Height="30" Width="120">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,0.971" StartPoint="0.5,0.042">
+                    <GradientStop Color="#59FFFFFF" Offset="0" />
+                    <GradientStop Color="#00FFFFFF" Offset="1" />
+                    <GradientStop Color="#26FFFFFF" Offset="0.467" />
+                    <GradientStop Color="#00FFFFFF" Offset="0.475" />
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="hoverShineBrush" Height="30" Width="120">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,0.971" StartPoint="0.5,0.042">
+                    <GradientStop Color="#4CFFFFFF" Offset="0" />
+                    <GradientStop Color="#26FFFFFF" Offset="1" />
+                    <GradientStop Color="#26FFFFFF" Offset="0.467" />
+                    <GradientStop Color="#00FFFFFF" Offset="0.475" />
+                    <GradientStop Color="#00FFFFFF" Offset="0.856" />
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="selectedBackgroundBursh" Height="30" Width="120">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFFFFFF"/>
+                    <GradientStop Color="#FF999999" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>            
+        </Rectangle>
+    </WrapPanel>
+</Window>

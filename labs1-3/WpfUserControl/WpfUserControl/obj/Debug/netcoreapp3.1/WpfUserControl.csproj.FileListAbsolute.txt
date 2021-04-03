@@ -1,0 +1,6 @@
+D:\wpf\projects\WpfUserControl\WpfUserControl\obj\Debug\netcoreapp3.1\WpfUserControl.csprojAssemblyReference.cache
+D:\wpf\projects\WpfUserControl\WpfUserControl\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\wpf\projects\WpfUserControl\WpfUserControl\obj\Debug\netcoreapp3.1\App.g.cs
+D:\wpf\projects\WpfUserControl\WpfUserControl\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\wpf\projects\WpfUserControl\WpfUserControl\obj\Debug\netcoreapp3.1\WpfUserControl_MarkupCompile.cache
+D:\wpf\projects\WpfUserControl\WpfUserControl\obj\Debug\netcoreapp3.1\WpfUserControl_MarkupCompile.lref
