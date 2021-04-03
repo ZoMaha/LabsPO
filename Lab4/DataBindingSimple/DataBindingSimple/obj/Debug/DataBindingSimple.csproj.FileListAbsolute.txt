@@ -1,0 +1,9 @@
+D:\wpf\projects\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+D:\wpf\projects\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+D:\wpf\projects\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+D:\wpf\projects\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+D:\wpf\projects\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+D:\wpf\projects\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+D:\wpf\projects\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+D:\wpf\projects\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb
+D:\wpf\projects\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources

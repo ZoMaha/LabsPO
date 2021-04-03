@@ -1,0 +1,10 @@
+D:\wpf\projects\LINQsql_1\LINQsql_1\bin\Debug\LINQsql_1.exe.config
+D:\wpf\projects\LINQsql_1\LINQsql_1\bin\Debug\LINQsql_1.exe
+D:\wpf\projects\LINQsql_1\LINQsql_1\bin\Debug\LINQsql_1.pdb
+D:\wpf\projects\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.csprojAssemblyReference.cache
+D:\wpf\projects\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.Form1.resources
+D:\wpf\projects\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.Properties.Resources.resources
+D:\wpf\projects\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.csproj.GenerateResource.cache
+D:\wpf\projects\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.csproj.CoreCompileInputs.cache
+D:\wpf\projects\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.exe
+D:\wpf\projects\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.pdb

@@ -1,0 +1,15 @@
+D:\wpf\projects\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.exe
+D:\wpf\projects\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.deps.json
+D:\wpf\projects\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.runtimeconfig.json
+D:\wpf\projects\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.runtimeconfig.dev.json
+D:\wpf\projects\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.dll
+D:\wpf\projects\Linq_Student\Linq_Student\bin\Debug\net5.0\ref\Linq_Student.dll
+D:\wpf\projects\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.pdb
+D:\wpf\projects\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\wpf\projects\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.AssemblyInfoInputs.cache
+D:\wpf\projects\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.AssemblyInfo.cs
+D:\wpf\projects\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.csproj.CoreCompileInputs.cache
+D:\wpf\projects\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.dll
+D:\wpf\projects\Linq_Student\Linq_Student\obj\Debug\net5.0\ref\Linq_Student.dll
+D:\wpf\projects\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.pdb
+D:\wpf\projects\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.genruntimeconfig.cache

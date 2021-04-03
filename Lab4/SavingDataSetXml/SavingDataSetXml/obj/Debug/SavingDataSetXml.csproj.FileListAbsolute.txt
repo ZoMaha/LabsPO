@@ -1,0 +1,9 @@
+D:\wpf\projects\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+D:\wpf\projects\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+D:\wpf\projects\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+D:\wpf\projects\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+D:\wpf\projects\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+D:\wpf\projects\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+D:\wpf\projects\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+D:\wpf\projects\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+D:\wpf\projects\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb

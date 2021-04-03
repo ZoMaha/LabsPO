@@ -1,0 +1,10 @@
+D:\wpf\projects\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+D:\wpf\projects\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+D:\wpf\projects\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+D:\wpf\projects\DBCommand\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+D:\wpf\projects\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+D:\wpf\projects\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+D:\wpf\projects\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+D:\wpf\projects\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+D:\wpf\projects\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+D:\wpf\projects\DBCommand\DBCommand\obj\Debug\DBCommand.pdb

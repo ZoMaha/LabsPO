@@ -1,0 +1,16 @@
+D:\wpf\projects\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+D:\wpf\projects\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+D:\wpf\projects\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+D:\wpf\projects\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+D:\wpf\projects\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+D:\wpf\projects\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+D:\wpf\projects\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+D:\wpf\projects\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+D:\wpf\projects\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+D:\wpf\projects\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+D:\wpf\projects\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\wpf\projects\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+D:\wpf\projects\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\wpf\projects\CourseManager\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+D:\wpf\projects\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+D:\wpf\projects\CourseManager\CourseManager\obj\Debug\CourseManager.CourseAssignmentForm.resources

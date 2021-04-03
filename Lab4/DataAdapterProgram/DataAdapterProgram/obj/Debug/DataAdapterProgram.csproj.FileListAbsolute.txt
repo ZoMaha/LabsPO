@@ -1,0 +1,9 @@
+D:\wpf\projects\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+D:\wpf\projects\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+D:\wpf\projects\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+D:\wpf\projects\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+D:\wpf\projects\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+D:\wpf\projects\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+D:\wpf\projects\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+D:\wpf\projects\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+D:\wpf\projects\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb
